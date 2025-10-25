@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Fitness Fusion",
+  "description": "A comprehensive AI-powered fitness application to track your health, get personalized coaching, and visualize your goals using Google Gemini. Log meals with a photo, get workout feedback, chat with an AI coach, generate meal plans, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
